@@ -8,7 +8,7 @@
 <script type="text/javascript" src="http://www.google.com/jsapi"></script>
 <script type="text/javascript">google.load("jquery", "1"); /* google.load("jqueryui", "1"); */</script>
 -->
-<script type="text/javascript" src="../jquery-1.4.1.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-1.4.1.min.js"></script>
 <script type="text/javascript" src="scripts/jquery.hotkeys-0.7.9.min.js"></script>
 <script type="text/javascript" src="scripts/jqrpg.js"></script>
 <script type="text/javascript">
